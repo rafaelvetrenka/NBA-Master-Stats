@@ -1,0 +1,52 @@
+/* Arquivo: face.css */
+
+body {
+    background-color: #8c8c8c; /* Cor primária */
+    color: #000000; /* Cor terciária */
+    font-family: 'Roboto', sans-serif; /* Alterado para Roboto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 15px;
+}
+
+form {
+    margin: 50px;
+    padding: 20px;
+    background-color: #212121; /* Cor secundária */
+    border-radius: 15px;
+    width: 50%;
+}
+
+label {
+    color: #F8BBD0; /* Cor terciária */
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 15px;
+}
+
+input[type="text"] {
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #F8BBD0; /* Cor secundária */
+    color: #000000; /* Cor terciária */
+    border-radius: 15px;
+}
+
+input[type="submit"] {
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #212121; /* Cor primária */
+    color: #F8BBD0; /* Cor terciária */
+    border: 1px solid #8c8c8c;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+input[type="submit"]:hover {
+    background-color: #8c8c8c; /* Cor secundária */
+    border-radius: 15px;
+}

@@ -37,8 +37,8 @@ Contribuições são sempre bem-vindas. Sinta-se à vontade para abrir uma issue
 
 * Página Inicial
 
-  <img src="imgs/Screenshot_3.png">
+  <img src="imgs/Screenshot_5.png">
 
 * Estatísticas
 
-  <img src="imgs/Screenshot_4.png">
+  <img src="imgs/Screenshot_6.png">

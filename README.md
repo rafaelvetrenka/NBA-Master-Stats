@@ -35,7 +35,9 @@ Contribuições são sempre bem-vindas. Sinta-se à vontade para abrir uma issue
 ## Prints
 
 * Página Inicial
+
   <img src="imgs/Screenshot_3.png">
 
 * Estatísticas
+
   <img src="imgs/Screenshot_4.png">

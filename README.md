@@ -9,7 +9,7 @@ O NBA Master Stats é um programa de webscraping desenvolvido para coletar estat
 - **Flask**: Framework usado para gerenciar as conexões.
 - **HTML/CSS**: Usados para o design da página.
 
-# Pré-requisitos
+## Pré-requisitos
 
 Antes de executar o programa, certifique-se de ter os seguintes softwares instalados em seu computador:
 
@@ -32,6 +32,10 @@ O foco principal do programa está no back end. Atualmente, o programa é capaz 
 
 Contribuições são sempre bem-vindas. Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
+## Prints
 
-MIT
+* Página Inicial
+  <img src="imgs/Screenshot_3.png">
+
+* Estatísticas
+  <img src="imgs/Screenshot_4.png">

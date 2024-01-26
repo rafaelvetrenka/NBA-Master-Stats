@@ -22,6 +22,7 @@ Para realizar a instalação do Python clique [aqui](https://www.python.org/).
 Você pode instalar o Selenium e Flask usando pip, o gerenciador de pacotes do Python. Aqui estão os comandos que você precisa executar no terminal:
 
 pip install selenium
+
 pip install flask
 
 ## Funcionalidades
